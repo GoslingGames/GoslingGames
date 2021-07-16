@@ -1,4 +1,4 @@
-🐣 Welcome to Gosling Games Online Sotrage For Game Builds and Launchers
+🐣 Welcome to Gosling Games Online Storage For Game Builds and Launchers
 
 <!---
 GoslingGames/GoslingGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
